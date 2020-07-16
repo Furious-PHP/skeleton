@@ -1,2 +1,2 @@
-# skeleton
-Micro framework
+## Furious
+Micro framework for PHP 7.4+
